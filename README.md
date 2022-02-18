@@ -21,6 +21,8 @@ Instructions for Using Git, Github, and Visual Studio Code
 17. Make sure to push your commits with "git push origin [branch-name]"
 18. To pull from a branch from the repository, use "git pull [branch-name]"
 
+Definitions
+
 1. Branch - a version of the project that is saved within the repository
 2. Clone - to make a copy of a repository
 3. Commit - saving the changes within the project that are within your local repository
